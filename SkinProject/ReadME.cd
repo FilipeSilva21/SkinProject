@@ -1,19 +1,1 @@
-# SkinProject - Guia de Configuração
 
-Este arquivo descreve as etapas para configurar e executar o projeto **SkinProject** utilizando **ASP.NET Core** e **Entity Framework Core** com banco de dados **SQLite**.
-
-## Pré-requisitos
-
-Certifique-se de que você tenha as seguintes ferramentas instaladas:
-
-- **.NET SDK** 6.0 ou superior
-- **SQLite** (embutido no projeto)
-
-## Passos para Execução
-
-### 1. Clone o Repositório
-
-Primeiro, clone o repositório do projeto para sua máquina local:
-
-```bash
-git clone https://github.com/seu-usuario/SkinProject.git
